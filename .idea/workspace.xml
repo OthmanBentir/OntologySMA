@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ab257a53-1eb0-4c49-820b-b0137e30632b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jade.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OntologySMA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jade.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/AgentsContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/BuyerAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/CatalogOntology.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/CatalogVocabolary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/Disponible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/MainContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/Sell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/SellerAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sma/Usb.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QF5UPAMNLOhYIr5uBfdmoxEKP9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/iothm/IdeaProjects/OntologySMA/jade.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\iothm\IdeaProjects\OntologySMA\src" />
+      <recent name="C:\Users\iothm\IdeaProjects\OntologySMA" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AgentsContainer">
+    <configuration name="AgentsContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sma.AgentsContainer" />
+      <module name="OntologySMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainContainer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sma.MainContainer" />
+      <module name="OntologySMA" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sma.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AgentsContainer" />
+        <item itemvalue="Application.MainContainer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab257a53-1eb0-4c49-820b-b0137e30632b" name="Changes" comment="" />
+      <created>1684936505595</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684936505595</updated>
+      <workItem from="1684936506777" duration="465000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
